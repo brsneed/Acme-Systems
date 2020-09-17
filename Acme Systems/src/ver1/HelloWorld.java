@@ -7,5 +7,10 @@ public class HelloWorld {
 		System.out.print("Hello from git hub");
 		System.out.print("this is for the screenshot");
 	}
+	
+	public static void heyNow() {
+		String Msg = "Hey Now!";
+		System.out.println(Msg);
+	}
 
 }
